@@ -1,0 +1,9 @@
+## Interface: 40000
+## Title: GMMH
+## Author: M
+## eMail: M@gm.com
+## Url: ATS.eu
+## Notes: GameMaster Macro Helper
+## Version: 3.0
+GMMH.lua
+GMMH.xml
